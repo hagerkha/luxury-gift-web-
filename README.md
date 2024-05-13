@@ -5,3 +5,4 @@ HTML (Hypertext Markup Language): It provides the structure for web pages, defin
 CSS (Cascading Style Sheets): It determines the presentation and style of the HTML elements, including layout, colors, fonts, and more.
 
 JavaScript: It adds interactivity to the website, allowing for dynamic behavior such as user interactions, animations, and data manipulation.
+![Screenshot 2024-05-13 221442](https://github.com/hagerkha/luxury-gift-web-/assets/131220220/b37aaa6f-efa3-44c3-b0cf-586c95fcc33f)
